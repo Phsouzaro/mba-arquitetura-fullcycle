@@ -12,6 +12,7 @@
 | 03 | Ecossistema Enterprise | [Ler documentação](./aula-03-ecossistema-enterprise.md) |
 | 04 | Escalabilidade | [Ler documentação](./aula-04-escalabilidade.md) |
 | 05 | Disponibilidade | [Ler documentação](./aula-05-disponibilidade.md) |
+| 06 | Segurança | [Ler documentação](./aula-06-seguranca.md) |
 
 ## Aprendizados registrados
 
@@ -23,5 +24,6 @@
 - Pessoas, processos e tecnologia precisam ser coordenados por práticas de governança.
 - Escalabilidade exige preservar objetivos de serviço sob mudanças de carga, com atenção à elasticidade e ao custo.
 - Disponibilidade precisa ser definida por funcionalidade e negociada considerando tempo, custo e criticidade.
+- Segurança enterprise exige proteção em camadas, gestão de identidade e acesso, processos e governança.
 
 Os próximos títulos serão incluídos conforme os resumos forem compartilhados.
