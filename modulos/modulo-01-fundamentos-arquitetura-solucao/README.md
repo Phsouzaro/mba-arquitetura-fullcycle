@@ -13,7 +13,7 @@ Módulo introdutório dedicado aos fundamentos de arquitetura de solução e às
 | Tema | Aulas documentadas | Acesso |
 | --- | ---: | --- |
 | 01 — Solution Enterprise (concluído) | 9 | [Ver tema](./tema-01-solution-enterprise/README.md) |
-| 02 — Solution Architecture (em andamento) | 4 | [Ver tema](./tema-02-solution-architecture/README.md) |
+| 02 — Solution Architecture (em andamento) | 6 | [Ver tema](./tema-02-solution-architecture/README.md) |
 
 ## Tópicos apresentados na descrição geral do módulo
 
