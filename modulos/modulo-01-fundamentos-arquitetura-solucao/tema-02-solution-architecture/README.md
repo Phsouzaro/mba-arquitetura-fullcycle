@@ -15,6 +15,7 @@
 | 06 | Aprofundando no TCO | [Ler documentação](./aula-06-aprofundando-no-tco.md) |
 | 07 | Enterprise Architecture vs. Solution Architecture | [Ler documentação](./aula-07-enterprise-architecture-vs-solution-architecture.md) |
 | 08 | 3 Camadas da Arquitetura de Soluções | [Ler documentação](./aula-08-3-camadas-da-arquitetura-de-solucoes.md) |
+| 09 | Nível 0: Negócio | [Ler documentação](./aula-09-nivel-0-negocio.md) |
 
 ## Aprendizados registrados
 
@@ -26,5 +27,6 @@
 - O perfil da pessoa arquiteta combina domínio de negócio, repertório tecnológico e contexto organizacional.
 - Soft skills sustentam comunicação, escuta ativa, liderança por influência e colaboração entre stakeholders.
 - O modelo de três níveis organiza decisões de negócio (0), solução técnica (1) e deployment (2).
+- No nível 0, a visão de negócio orienta o escopo e precisa ser descoberta e validada com stakeholders.
 
 As próximas aulas serão incluídas conforme os resumos forem compartilhados.
