@@ -1,0 +1,44 @@
+# Java / JVM
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+.gradle/
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# Node / frontend
+node_modules/
+dist/
+coverage/
+
+# Ambiente e segredos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials.json
+
+# Sistema operacional / logs
+.DS_Store
+Thumbs.db
+*.log
+logs/
+
+# Temporários
+tmp/
+temp/
+*.swp
