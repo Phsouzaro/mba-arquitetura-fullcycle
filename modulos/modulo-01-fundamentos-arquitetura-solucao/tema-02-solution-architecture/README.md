@@ -9,6 +9,7 @@
 | --- | --- | --- |
 | 01 | O que é arquitetura de solução? | [Ler documentação](./aula-01-o-que-e-arquitetura-de-solucao.md) |
 | 02 | Perfil da Função | [Ler documentação](./aula-02-perfil-da-funcao.md) |
+| 03 | Soft Skills | [Ler documentação](./aula-03-soft-skills.md) |
 
 ## Aprendizados registrados
 
@@ -18,5 +19,6 @@
 - O blueprint cria uma referência compartilhada para desenvolvimento e integração.
 - A formalização arquitetural deve ser proporcional à complexidade e ao risco.
 - O perfil da pessoa arquiteta combina domínio de negócio, repertório tecnológico e contexto organizacional.
+- Soft skills sustentam comunicação, escuta ativa, liderança por influência e colaboração entre stakeholders.
 
 As próximas aulas serão incluídas conforme os resumos forem compartilhados.
