@@ -8,12 +8,14 @@
 | Aula | Título | Link |
 | --- | --- | --- |
 | 01 | Introdução | [Ler documentação](./aula-01-introducao.md) |
+| 02 | Software Enterprise como Contexto da Arquitetura de Solução | [Ler documentação](./aula-02-software-enterprise.md) |
 
 ## Aprendizados registrados
 
 - Arquitetura de soluções conecta contexto técnico e necessidades de negócio.
 - Conceitos duradouros ajudam a avaliar tecnologias e frameworks.
 - Decisões arquiteturais exigem visão sistêmica, custos e trade-offs.
-- Maturidade profissional envolve justificar decisões e considerar suas consequências.
+- Software enterprise envolve complexidade institucional, regulatória, contábil e de integração — não somente tamanho.
+- Business units, governos e operações internacionais trazem requisitos de governança e consolidação.
 
 Os próximos títulos serão incluídos conforme os resumos forem compartilhados.
