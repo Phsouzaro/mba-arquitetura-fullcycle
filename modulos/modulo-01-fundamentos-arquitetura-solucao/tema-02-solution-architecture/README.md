@@ -8,6 +8,7 @@
 | Aula | Título | Link |
 | --- | --- | --- |
 | 01 | O que é arquitetura de solução? | [Ler documentação](./aula-01-o-que-e-arquitetura-de-solucao.md) |
+| 02 | Perfil da Função | [Ler documentação](./aula-02-perfil-da-funcao.md) |
 
 ## Aprendizados registrados
 
@@ -16,5 +17,6 @@
 - A stack e a infraestrutura devem ser escolhidas considerando restrições e trade-offs.
 - O blueprint cria uma referência compartilhada para desenvolvimento e integração.
 - A formalização arquitetural deve ser proporcional à complexidade e ao risco.
+- O perfil da pessoa arquiteta combina domínio de negócio, repertório tecnológico e contexto organizacional.
 
 As próximas aulas serão incluídas conforme os resumos forem compartilhados.
