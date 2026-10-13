@@ -9,6 +9,7 @@
 | --- | --- | --- |
 | 01 | Introdução | [Ler documentação](./aula-01-introducao.md) |
 | 02 | Software Enterprise como Contexto da Arquitetura de Solução | [Ler documentação](./aula-02-software-enterprise.md) |
+| 03 | Ecossistema Enterprise | [Ler documentação](./aula-03-ecossistema-enterprise.md) |
 
 ## Aprendizados registrados
 
@@ -17,5 +18,6 @@
 - Decisões arquiteturais exigem visão sistêmica, custos e trade-offs.
 - Software enterprise envolve complexidade institucional, regulatória, contábil e de integração — não somente tamanho.
 - Business units, governos e operações internacionais trazem requisitos de governança e consolidação.
+- Pessoas, processos e tecnologia precisam ser coordenados por práticas de governança.
 
 Os próximos títulos serão incluídos conforme os resumos forem compartilhados.
