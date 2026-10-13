@@ -17,6 +17,7 @@
 | 08 | 3 Camadas da Arquitetura de Soluções | [Ler documentação](./aula-08-3-camadas-da-arquitetura-de-solucoes.md) |
 | 09 | Nível 0: Negócio | [Ler documentação](./aula-09-nivel-0-negocio.md) |
 | 10 | Nível 0: Escopo | [Ler documentação](./aula-10-nivel-0-escopo.md) |
+| 11 | Domínio e Contextos | [Ler documentação](./aula-11-dominio-e-contextos.md) |
 
 ## Aprendizados registrados
 
