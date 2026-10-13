@@ -25,11 +25,12 @@ O foco não é apenas registrar *o que* foi estudado, mas explicar **por que**, 
 | Etapa | Status |
 | --- | --- |
 | Estrutura inicial de documentação | Concluída |
-| Cadastro dos módulos reais do MBA | Pendente |
+| Cadastro dos módulos reais do MBA | Iniciado: módulo 01 registrado |
+| [Módulo 01 — Fundamentos de Arquitetura de Solução](./modulos/modulo-01-fundamentos-arquitetura-solucao/README.md) | 27% concluído (informado em 13/10/2026) |
 | Anotações e exercícios | Em construção |
 | Projetos práticos | Em construção |
 
-> Os nomes dos módulos serão registrados conforme o conteúdo efetivamente cursado, sem presumir a grade curricular.
+> Os nomes dos próximos módulos serão registrados conforme o conteúdo efetivamente cursado, sem presumir a grade curricular.
 
 ## Como documentarei cada aula
 
