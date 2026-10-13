@@ -14,6 +14,7 @@
 | 05 | Disponibilidade | [Ler documentação](./aula-05-disponibilidade.md) |
 | 06 | Segurança | [Ler documentação](./aula-06-seguranca.md) |
 | 07 | Customização e Modularização | [Ler documentação](./aula-07-customizacao-e-modularizacao.md) |
+| 08 | Integração | [Ler documentação](./aula-08-integracao.md) |
 
 ## Aprendizados registrados
 
@@ -27,5 +28,6 @@
 - Disponibilidade precisa ser definida por funcionalidade e negociada considerando tempo, custo e criticidade.
 - Segurança enterprise exige proteção em camadas, gestão de identidade e acesso, processos e governança.
 - Customização e modularização equilibram diferenciação competitiva, padronização e governança.
+- Integração conecta sistemas heterogêneos com contratos, segurança e custos operacionais sustentáveis.
 
 Os próximos títulos serão incluídos conforme os resumos forem compartilhados.
