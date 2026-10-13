@@ -10,6 +10,9 @@
 | 01 | O que é arquitetura de solução? | [Ler documentação](./aula-01-o-que-e-arquitetura-de-solucao.md) |
 | 02 | Perfil da Função | [Ler documentação](./aula-02-perfil-da-funcao.md) |
 | 03 | Soft Skills | [Ler documentação](./aula-03-soft-skills.md) |
+| 04 | Princípios para Arquitetar uma Solução | [Ler documentação](./aula-04-principios-para-arquitetar-uma-solucao.md) |
+| 05 | Iniciando com TCO | [Ler documentação](./aula-05-iniciando-com-tco.md) |
+| 06 | Aprofundando no TCO | [Ler documentação](./aula-06-aprofundando-no-tco.md) |
 
 ## Aprendizados registrados
 
