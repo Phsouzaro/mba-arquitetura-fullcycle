@@ -13,6 +13,7 @@
 | 04 | Princípios para Arquitetar uma Solução | [Ler documentação](./aula-04-principios-para-arquitetar-uma-solucao.md) |
 | 05 | Iniciando com TCO | [Ler documentação](./aula-05-iniciando-com-tco.md) |
 | 06 | Aprofundando no TCO | [Ler documentação](./aula-06-aprofundando-no-tco.md) |
+| 07 | Enterprise Architecture vs. Solution Architecture | [Ler documentação](./aula-07-enterprise-architecture-vs-solution-architecture.md) |
 
 ## Aprendizados registrados
 
