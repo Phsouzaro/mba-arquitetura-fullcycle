@@ -1,7 +1,7 @@
 # Tema 01 — Solution Enterprise
 
 **Módulo:** [01 — Fundamentos de Arquitetura de Solução](../README.md)  
-**Situação:** Em andamento
+**Situação:** Concluído — 9 de 9 aulas documentadas
 
 ## Aulas documentadas
 
@@ -15,6 +15,7 @@
 | 06 | Segurança | [Ler documentação](./aula-06-seguranca.md) |
 | 07 | Customização e Modularização | [Ler documentação](./aula-07-customizacao-e-modularizacao.md) |
 | 08 | Integração | [Ler documentação](./aula-08-integracao.md) |
+| 09 | Observabilidade | [Ler documentação](./aula-09-observabilidade.md) |
 
 ## Aprendizados registrados
 
@@ -29,5 +30,10 @@
 - Segurança enterprise exige proteção em camadas, gestão de identidade e acesso, processos e governança.
 - Customização e modularização equilibram diferenciação competitiva, padronização e governança.
 - Integração conecta sistemas heterogêneos com contratos, segurança e custos operacionais sustentáveis.
+- Observabilidade permite acompanhar e investigar sistemas distribuídos por logs, métricas, traces e indicadores de desempenho.
 
-Os próximos títulos serão incluídos conforme os resumos forem compartilhados.
+## Fechamento do tema
+
+**Solution Enterprise concluído.** As nove aulas conectam contexto de negócio, governança, atributos de qualidade e integração à operação observável dos sistemas.
+
+O módulo 01 permanece em andamento; novos temas serão cadastrados conforme a sequência real do MBA.
