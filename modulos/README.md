@@ -1,13 +1,13 @@
 # Módulos e aulas
 
-Este índice será preenchido **na ordem real do MBA**, conforme as aulas forem estudadas.
+Índice organizado conforme os módulos reais do MBA em Arquitetura Full Cycle.
 
-| Módulo | Aulas documentadas | Situação |
-| --- | ---: | --- |
-| A cadastrar | 0 | Aguardando início da documentação |
+| Módulo | Aulas documentadas | Progresso informado | Situação |
+| --- | ---: | ---: | --- |
+| [01 — Fundamentos de Arquitetura de Solução](./modulo-01-fundamentos-arquitetura-solucao/README.md) | 0 | 27% | Em andamento |
 
-## Organização sugerida
+**Última atualização do progresso:** 13/10/2026.
 
-Cada módulo terá sua própria pasta, por exemplo `modulo-01-nome-do-modulo/`, contendo arquivos `aula-01-tema.md`.
+Os títulos das aulas serão adicionados conforme forem compartilhados, preservando a ordem real do curso.
 
-Use o [modelo de aula](../templates/aula.md) e registre somente explicações autorais, exemplos próprios e referências permitidas.
+Use o [modelo de aula](../templates/aula.md) para criar anotações autorais, exemplos próprios e referências permitidas.
