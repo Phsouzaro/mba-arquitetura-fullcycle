@@ -10,6 +10,7 @@
 | 01 | Introdução | [Ler documentação](./aula-01-introducao.md) |
 | 02 | Software Enterprise como Contexto da Arquitetura de Solução | [Ler documentação](./aula-02-software-enterprise.md) |
 | 03 | Ecossistema Enterprise | [Ler documentação](./aula-03-ecossistema-enterprise.md) |
+| 04 | Escalabilidade | [Ler documentação](./aula-04-escalabilidade.md) |
 
 ## Aprendizados registrados
 
@@ -19,5 +20,6 @@
 - Software enterprise envolve complexidade institucional, regulatória, contábil e de integração — não somente tamanho.
 - Business units, governos e operações internacionais trazem requisitos de governança e consolidação.
 - Pessoas, processos e tecnologia precisam ser coordenados por práticas de governança.
+- Escalabilidade exige preservar objetivos de serviço sob mudanças de carga, com atenção à elasticidade e ao custo.
 
 Os próximos títulos serão incluídos conforme os resumos forem compartilhados.
