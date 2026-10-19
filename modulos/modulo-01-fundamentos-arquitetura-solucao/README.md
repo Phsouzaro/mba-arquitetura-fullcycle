@@ -13,7 +13,7 @@ Módulo introdutório dedicado aos fundamentos de arquitetura de solução e às
 | Tema | Aulas documentadas | Acesso |
 | --- | ---: | --- |
 | 01 — Solution Enterprise (concluído) | 9 | [Ver tema](./tema-01-solution-enterprise/README.md) |
-| 02 — Solution Architecture (em andamento) | 15 | [Ver tema](./tema-02-solution-architecture/README.md) |
+| 02 — Solution Architecture (concluído) | 16 | [Ver tema](./tema-02-solution-architecture/README.md) |
 
 ## Tópicos apresentados na descrição geral do módulo
 
@@ -31,4 +31,4 @@ Ainda não cadastrados. Projetos práticos serão vinculados em [projetos](../..
 
 ## Próximos passos
 
-**Solution Enterprise concluído (9 aulas).** Continuar documentando as aulas do tema **Solution Architecture**.
+**Solution Enterprise concluído (9 aulas)** e **Solution Architecture concluído (16 aulas)**. Aguardar o próximo tema do módulo para continuar a documentação.
