@@ -20,6 +20,7 @@
 | 11 | Domínio e Contextos | [Ler documentação](./aula-11-dominio-e-contextos.md) |
 | 12 | Domínio, Contextos e Linguagens | [Ler documentação](./aula-12-dominio-contextos-e-linguagens.md) |
 | 13 | Lei de Conway | [Ler documentação](./aula-13-lei-de-conway.md) |
+| 14 | Views e Viewpoints | [Ler documentação](./aula-14-views-e-viewpoints.md) |
 
 ## Aprendizados registrados
 
@@ -35,5 +36,6 @@
 - O escopo define boundaries, responsabilidades, requisitos, pressupostos, restrições e dependências antes do detalhamento técnico.
 - A linguagem ubíqua e os glossários por contexto evitam ambiguidades de domínio em modelos e integrações.
 - A Lei de Conway explica como estruturas de comunicação e responsabilidades organizacionais influenciam os limites técnicos dos sistemas.
+- Viewpoints definem critérios e preocupações de stakeholders; views são representações da arquitetura produzidas a partir dessas perspectivas.
 
 As próximas aulas serão incluídas conforme os resumos forem compartilhados.
