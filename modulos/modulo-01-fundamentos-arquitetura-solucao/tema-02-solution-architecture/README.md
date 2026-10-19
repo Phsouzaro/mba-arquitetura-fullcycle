@@ -18,6 +18,7 @@
 | 09 | Nível 0: Negócio | [Ler documentação](./aula-09-nivel-0-negocio.md) |
 | 10 | Nível 0: Escopo | [Ler documentação](./aula-10-nivel-0-escopo.md) |
 | 11 | Domínio e Contextos | [Ler documentação](./aula-11-dominio-e-contextos.md) |
+| 12 | Domínio, Contextos e Linguagens | [Ler documentação](./aula-12-dominio-contextos-e-linguagens.md) |
 
 ## Aprendizados registrados
 
@@ -31,5 +32,6 @@
 - O modelo de três níveis organiza decisões de negócio (0), solução técnica (1) e deployment (2).
 - No nível 0, a visão de negócio orienta o escopo e precisa ser descoberta e validada com stakeholders.
 - O escopo define boundaries, responsabilidades, requisitos, pressupostos, restrições e dependências antes do detalhamento técnico.
+- A linguagem ubíqua e os glossários por contexto evitam ambiguidades de domínio em modelos e integrações.
 
 As próximas aulas serão incluídas conforme os resumos forem compartilhados.
