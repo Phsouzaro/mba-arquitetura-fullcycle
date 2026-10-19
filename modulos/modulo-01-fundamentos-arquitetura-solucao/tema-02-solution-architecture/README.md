@@ -19,6 +19,7 @@
 | 10 | Nível 0: Escopo | [Ler documentação](./aula-10-nivel-0-escopo.md) |
 | 11 | Domínio e Contextos | [Ler documentação](./aula-11-dominio-e-contextos.md) |
 | 12 | Domínio, Contextos e Linguagens | [Ler documentação](./aula-12-dominio-contextos-e-linguagens.md) |
+| 13 | Lei de Conway | [Ler documentação](./aula-13-lei-de-conway.md) |
 
 ## Aprendizados registrados
 
@@ -33,5 +34,6 @@
 - No nível 0, a visão de negócio orienta o escopo e precisa ser descoberta e validada com stakeholders.
 - O escopo define boundaries, responsabilidades, requisitos, pressupostos, restrições e dependências antes do detalhamento técnico.
 - A linguagem ubíqua e os glossários por contexto evitam ambiguidades de domínio em modelos e integrações.
+- A Lei de Conway explica como estruturas de comunicação e responsabilidades organizacionais influenciam os limites técnicos dos sistemas.
 
 As próximas aulas serão incluídas conforme os resumos forem compartilhados.
