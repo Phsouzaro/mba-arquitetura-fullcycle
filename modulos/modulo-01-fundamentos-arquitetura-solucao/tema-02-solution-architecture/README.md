@@ -21,6 +21,7 @@
 | 12 | Domínio, Contextos e Linguagens | [Ler documentação](./aula-12-dominio-contextos-e-linguagens.md) |
 | 13 | Lei de Conway | [Ler documentação](./aula-13-lei-de-conway.md) |
 | 14 | Views e Viewpoints | [Ler documentação](./aula-14-views-e-viewpoints.md) |
+| 15 | Modelo 4+1 | [Ler documentação](./aula-15-modelo-4-mais-1.md) |
 
 ## Aprendizados registrados
 
@@ -37,5 +38,6 @@
 - A linguagem ubíqua e os glossários por contexto evitam ambiguidades de domínio em modelos e integrações.
 - A Lei de Conway explica como estruturas de comunicação e responsabilidades organizacionais influenciam os limites técnicos dos sistemas.
 - Viewpoints definem critérios e preocupações de stakeholders; views são representações da arquitetura produzidas a partir dessas perspectivas.
+- O modelo 4+1 combina visões lógica, de processo, de desenvolvimento e física, validadas por cenários de uso.
 
 As próximas aulas serão incluídas conforme os resumos forem compartilhados.
