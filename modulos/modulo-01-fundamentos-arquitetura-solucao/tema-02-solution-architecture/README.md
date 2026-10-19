@@ -1,7 +1,7 @@
 # Tema 02 — Solution Architecture
 
 **Módulo:** [01 — Fundamentos de Arquitetura de Solução](../README.md)  
-**Situação:** Em andamento
+**Situação:** Concluído (16 aulas)
 
 ## Aulas documentadas
 
@@ -22,6 +22,7 @@
 | 13 | Lei de Conway | [Ler documentação](./aula-13-lei-de-conway.md) |
 | 14 | Views e Viewpoints | [Ler documentação](./aula-14-views-e-viewpoints.md) |
 | 15 | Modelo 4+1 | [Ler documentação](./aula-15-modelo-4-mais-1.md) |
+| 16 | Risco vs. Documentação | [Ler documentação](./aula-16-risco-vs-documentacao.md) |
 
 ## Aprendizados registrados
 
@@ -39,5 +40,8 @@
 - A Lei de Conway explica como estruturas de comunicação e responsabilidades organizacionais influenciam os limites técnicos dos sistemas.
 - Viewpoints definem critérios e preocupações de stakeholders; views são representações da arquitetura produzidas a partir dessas perspectivas.
 - O modelo 4+1 combina visões lógica, de processo, de desenvolvimento e física, validadas por cenários de uso.
+- A documentação deve ser proporcional ao risco e à criticidade, selecionando artefatos que reduzam incertezas e permitam revisão de decisões.
 
-As próximas aulas serão incluídas conforme os resumos forem compartilhados.
+## Encerramento
+
+**Tema concluído: 16 aulas documentadas.** O estudo conecta necessidades de negócio, domínio, decisões técnicas, organização e documentação orientada a riscos. O módulo continua em andamento; novos temas serão registrados conforme forem apresentados no curso.
