@@ -4,15 +4,15 @@
 
 | Módulo | Aulas documentadas | Progresso informado | Situação |
 | --- | ---: | ---: | --- |
-| [01 — Fundamentos de Arquitetura de Solução](./modulo-01-fundamentos-arquitetura-solucao/README.md) | 24 | 27% | Em andamento |
+| [01 — Fundamentos de Arquitetura de Solução](./modulo-01-fundamentos-arquitetura-solucao/README.md) | 25 | 27% | Em andamento |
 
 **Última atualização do progresso:** 13/10/2026 (percentual informado, não sincronizado automaticamente).
 
-## Tema atual
+## Temas documentados
 
-[Solution Architecture](./modulo-01-fundamentos-arquitetura-solucao/tema-02-solution-architecture/README.md) — 15 aulas documentadas — tema em andamento.
+[Solution Architecture](./modulo-01-fundamentos-arquitetura-solucao/tema-02-solution-architecture/README.md) — concluído (16 aulas).
 
-**Tema anterior:** [Solution Enterprise](./modulo-01-fundamentos-arquitetura-solucao/tema-01-solution-enterprise/README.md) — concluído (9 aulas).
+**Outro tema concluído:** [Solution Enterprise](./modulo-01-fundamentos-arquitetura-solucao/tema-01-solution-enterprise/README.md) — concluído (9 aulas).
 
 Os próximos temas e títulos de aulas serão registrados na ordem real do curso.
 
