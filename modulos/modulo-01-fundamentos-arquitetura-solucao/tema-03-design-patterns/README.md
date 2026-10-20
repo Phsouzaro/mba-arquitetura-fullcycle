@@ -8,6 +8,7 @@
 | Aula | Título | Link |
 | --- | --- | --- |
 | 01 | Design Patterns: Visão Geral | [Ler documentação](./aula-01-design-patterns-visao-geral.md) |
+| 02 | N-Tier e N-Layered Architecture | [Ler documentação](./aula-02-n-tier-e-n-layered-architecture.md) |
 
 ## Aprendizados registrados
 
@@ -15,5 +16,6 @@
 - Conhecer padrões amplia o repertório e o vocabulário compartilhado de engenharia.
 - A escolha de um padrão deve considerar contexto, benefícios, custos e trade-offs.
 - Design patterns, padrões arquiteturais e padrões de integração operam em níveis diferentes e podem se relacionar.
+- Layers separam responsabilidades lógicas, enquanto tiers separam unidades de implantação; closed e open layering representam regras distintas de dependência.
 
 As próximas aulas serão documentadas conforme os resumos forem compartilhados.
