@@ -4,9 +4,9 @@
 
 | Módulo | Aulas documentadas | Progresso informado | Situação |
 | --- | ---: | ---: | --- |
-| [01 — Fundamentos de Arquitetura de Solução](./modulo-01-fundamentos-arquitetura-solucao/README.md) | 28 | 27% | Em andamento |
+| [01 — Fundamentos de Arquitetura de Solução](./modulo-01-fundamentos-arquitetura-solucao/README.md) | 28 | 38% | Em andamento |
 
-**Última atualização do progresso:** 13/10/2026 (percentual informado, não sincronizado automaticamente).
+**Última atualização do progresso:** 21/10/2026 (percentual informado, não sincronizado automaticamente).
 
 ## Tema atual
 
