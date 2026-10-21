@@ -2,7 +2,7 @@
 
 **Curso:** MBA em Arquitetura Full Cycle  
 **Status:** Em andamento  
-**Progresso informado:** 27% (13/10/2026)
+**Progresso informado:** 38% (21/10/2026)
 
 ## Visão geral
 
