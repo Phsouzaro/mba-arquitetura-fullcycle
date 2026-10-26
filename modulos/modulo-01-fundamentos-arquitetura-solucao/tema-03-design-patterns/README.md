@@ -11,6 +11,7 @@
 | 02 | N-Tier e N-Layered Architecture | [Ler documentação](./aula-02-n-tier-e-n-layered-architecture.md) |
 | 03 | Multi-Tenant Architecture | [Ler documentação](./aula-03-multi-tenant-architecture.md) |
 | 04 | Stateless vs. Stateful Architecture | [Ler documentação](./aula-04-stateless-vs-stateful-architecture.md) |
+| 05 | Serverless Architecture | [Ler documentação](./aula-05-serverless-architecture.md) |
 
 ## Aprendizados registrados
 
@@ -21,5 +22,6 @@
 - Layers separam responsabilidades lógicas, enquanto tiers separam unidades de implantação; closed e open layering representam regras distintas de dependência.
 - Multi-tenancy compartilha recursos entre organizações, exigindo identificação autorizada e segregação de dados por banco, tabela ou chave, inclusive em estratégias híbridas.
 - Aplicações stateless externalizam sessões, arquivos e logs para que instâncias sejam substituíveis, favorecendo elasticidade.
+- Serverless combina execução e serviços gerenciados sob demanda, com trade-offs de custo, cold start, observabilidade e dependência do provedor.
 
 As próximas aulas serão documentadas conforme os resumos forem compartilhados.
