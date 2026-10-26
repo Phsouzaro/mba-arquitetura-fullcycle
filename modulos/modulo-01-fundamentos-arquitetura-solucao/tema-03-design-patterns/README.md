@@ -10,6 +10,7 @@
 | 01 | Design Patterns: Visão Geral | [Ler documentação](./aula-01-design-patterns-visao-geral.md) |
 | 02 | N-Tier e N-Layered Architecture | [Ler documentação](./aula-02-n-tier-e-n-layered-architecture.md) |
 | 03 | Multi-Tenant Architecture | [Ler documentação](./aula-03-multi-tenant-architecture.md) |
+| 04 | Stateless vs. Stateful Architecture | [Ler documentação](./aula-04-stateless-vs-stateful-architecture.md) |
 
 ## Aprendizados registrados
 
@@ -19,5 +20,6 @@
 - Design patterns, padrões arquiteturais e padrões de integração operam em níveis diferentes e podem se relacionar.
 - Layers separam responsabilidades lógicas, enquanto tiers separam unidades de implantação; closed e open layering representam regras distintas de dependência.
 - Multi-tenancy compartilha recursos entre organizações, exigindo identificação autorizada e segregação de dados por banco, tabela ou chave, inclusive em estratégias híbridas.
+- Aplicações stateless externalizam sessões, arquivos e logs para que instâncias sejam substituíveis, favorecendo elasticidade.
 
 As próximas aulas serão documentadas conforme os resumos forem compartilhados.
