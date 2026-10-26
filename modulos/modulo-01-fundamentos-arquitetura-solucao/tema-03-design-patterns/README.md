@@ -14,6 +14,7 @@
 | 05 | Serverless Architecture | [Ler documentação](./aula-05-serverless-architecture.md) |
 | 06 | Microservices Architecture | [Ler documentação](./aula-06-microservices-architecture.md) |
 | 07 | CQRS — Command Query Responsibility Segregation | [Ler documentação](./aula-07-cqrs.md) |
+| 08 | Entendendo Cache | [Ler documentação](./aula-08-entendendo-cache.md) |
 
 ## Aprendizados registrados
 
@@ -27,5 +28,6 @@
 - Serverless combina execução e serviços gerenciados sob demanda, com trade-offs de custo, cold start, observabilidade e dependência do provedor.
 - Microserviços favorecem ownership e deploy independente por domínio, mas exigem resiliência distribuída, consistência, CI/CD e observabilidade.
 - CQRS separa modelos e fluxos de escrita e leitura, podendo usar projeções e persistências distintas quando a complexidade se justifica.
+- Cache-aside reaproveita leituras, reduz latência e carga na origem, exigindo política de expiração e invalidação.
 
 As próximas aulas serão documentadas conforme os resumos forem compartilhados.
