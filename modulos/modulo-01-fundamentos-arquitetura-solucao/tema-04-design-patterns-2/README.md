@@ -13,6 +13,7 @@
 | 04 | Sequencing | [Ler documentação](./aula-04-sequencing.md) |
 | 05 | API Gateway | [Ler documentação](./aula-05-api-gateway.md) |
 | 06 | Arquitetura Baseada em Eventos | [Ler documentação](./aula-06-arquitetura-baseada-em-eventos.md) |
+| 07 | Publish/Subscribe (Pub/Sub) | [Ler documentação](./aula-07-pub-sub.md) |
 
 ## Aprendizados registrados
 
@@ -24,5 +25,6 @@
 - Sequencing coordena emissão de identificadores quando necessário, mas deve ser comparado a sequences de banco, UUIDs e geradores distribuídos conforme os requisitos.
 - API Gateway centraliza roteamento e políticas na borda, incluindo autenticação, rastreabilidade e controle de tráfego, sem substituir a autorização de domínio.
 - Arquitetura baseada em eventos desacopla produtores e consumidores, com notificações, transferência de estado, Event Sourcing, coreografia, orquestração e Sagas.
+- Pub/Sub distribui eventos a consumidores independentes via tópicos, com atenção a consumer groups, particionamento, idempotência e garantias de entrega.
 
 As próximas aulas serão documentadas conforme os resumos forem compartilhados.
