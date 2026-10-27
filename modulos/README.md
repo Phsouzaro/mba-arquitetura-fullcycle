@@ -4,13 +4,13 @@
 
 | Módulo | Aulas documentadas | Progresso informado | Situação |
 | --- | ---: | ---: | --- |
-| [01 — Fundamentos de Arquitetura de Solução](./modulo-01-fundamentos-arquitetura-solucao/README.md) | 39 | 38% | Em andamento |
+| [01 — Fundamentos de Arquitetura de Solução](./modulo-01-fundamentos-arquitetura-solucao/README.md) | 40 | 38% | Em andamento |
 
 **Última atualização do progresso:** 21/10/2026 (percentual informado, não sincronizado automaticamente).
 
 ## Tema atual
 
-[Design Pattern (2)](./modulo-01-fundamentos-arquitetura-solucao/tema-04-design-patterns-2/README.md) — 4 aulas documentadas — em andamento.
+[Design Pattern (2)](./modulo-01-fundamentos-arquitetura-solucao/tema-04-design-patterns-2/README.md) — 5 aulas documentadas — em andamento.
 
 ## Tema anterior
 
