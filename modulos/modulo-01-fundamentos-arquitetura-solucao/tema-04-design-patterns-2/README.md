@@ -15,6 +15,7 @@
 | 06 | Arquitetura Baseada em Eventos | [Ler documentação](./aula-06-arquitetura-baseada-em-eventos.md) |
 | 07 | Publish/Subscribe (Pub/Sub) | [Ler documentação](./aula-07-pub-sub.md) |
 | 08 | Sidecar | [Ler documentação](./aula-08-sidecar.md) |
+| 09 | Service Mesh | [Ler documentação](./aula-09-service-mesh.md) |
 
 ## Aprendizados registrados
 
@@ -28,5 +29,6 @@
 - Arquitetura baseada em eventos desacopla produtores e consumidores, com notificações, transferência de estado, Event Sourcing, coreografia, orquestração e Sagas.
 - Pub/Sub distribui eventos a consumidores independentes via tópicos, com atenção a consumer groups, particionamento, idempotência e garantias de entrega.
 - Sidecar extrai capacidades transversais para componentes adjacentes à aplicação, incluindo logs, mTLS, controle de tráfego e configuração.
+- Service Mesh coordena políticas de comunicação, segurança e observabilidade entre serviços por meio de data plane e control plane.
 
 As próximas aulas serão documentadas conforme os resumos forem compartilhados.
