@@ -12,6 +12,7 @@
 | 03 | Circuit Breaker | [Ler documentação](./aula-03-circuit-breaker.md) |
 | 04 | Sequencing | [Ler documentação](./aula-04-sequencing.md) |
 | 05 | API Gateway | [Ler documentação](./aula-05-api-gateway.md) |
+| 06 | Arquitetura Baseada em Eventos | [Ler documentação](./aula-06-arquitetura-baseada-em-eventos.md) |
 
 ## Aprendizados registrados
 
@@ -22,5 +23,6 @@
 - Circuit Breaker limita falhas em cascata com estados fechado, aberto e meio aberto, protegendo o chamador de dependências degradadas.
 - Sequencing coordena emissão de identificadores quando necessário, mas deve ser comparado a sequences de banco, UUIDs e geradores distribuídos conforme os requisitos.
 - API Gateway centraliza roteamento e políticas na borda, incluindo autenticação, rastreabilidade e controle de tráfego, sem substituir a autorização de domínio.
+- Arquitetura baseada em eventos desacopla produtores e consumidores, com notificações, transferência de estado, Event Sourcing, coreografia, orquestração e Sagas.
 
 As próximas aulas serão documentadas conforme os resumos forem compartilhados.
