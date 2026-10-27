@@ -15,6 +15,7 @@
 | 06 | Microservices Architecture | [Ler documentação](./aula-06-microservices-architecture.md) |
 | 07 | CQRS — Command Query Responsibility Segregation | [Ler documentação](./aula-07-cqrs.md) |
 | 08 | Entendendo Cache | [Ler documentação](./aula-08-entendendo-cache.md) |
+| 09 | Invalidando Cache | [Ler documentação](./aula-09-invalidando-cache.md) |
 
 ## Aprendizados registrados
 
@@ -29,5 +30,6 @@
 - Microserviços favorecem ownership e deploy independente por domínio, mas exigem resiliência distribuída, consistência, CI/CD e observabilidade.
 - CQRS separa modelos e fluxos de escrita e leitura, podendo usar projeções e persistências distintas quando a complexidade se justifica.
 - Cache-aside reaproveita leituras, reduz latência e carga na origem, exigindo política de expiração e invalidação.
+- Invalidação por TTL, eviction por LRU/MRU/LFU e sincronização por write-through/write-back resolvem problemas distintos de cache.
 
 As próximas aulas serão documentadas conforme os resumos forem compartilhados.
