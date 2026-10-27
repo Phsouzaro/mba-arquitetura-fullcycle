@@ -9,6 +9,7 @@
 | --- | --- | --- |
 | 01 | Configuration | [Ler documentação](./aula-01-configuration.md) |
 | 02 | Secret Management | [Ler documentação](./aula-02-secret-management.md) |
+| 03 | Circuit Breaker | [Ler documentação](./aula-03-circuit-breaker.md) |
 
 ## Aprendizados registrados
 
@@ -16,5 +17,6 @@
 - Externalizar configuração não significa automaticamente permitir refresh dinâmico.
 - Mudanças exigem validação, autorização, auditoria, propagação e tratamento especial para credenciais.
 - Secret Management protege e governa credenciais por meio de cofre, identidade de workload, menor privilégio, rotação e auditoria.
+- Circuit Breaker limita falhas em cascata com estados fechado, aberto e meio aberto, protegendo o chamador de dependências degradadas.
 
 As próximas aulas serão documentadas conforme os resumos forem compartilhados.
