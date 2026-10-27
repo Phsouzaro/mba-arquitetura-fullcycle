@@ -4,17 +4,17 @@
 
 | Módulo | Aulas documentadas | Progresso informado | Situação |
 | --- | ---: | ---: | --- |
-| [01 — Fundamentos de Arquitetura de Solução](./modulo-01-fundamentos-arquitetura-solucao/README.md) | 44 | 38% | Em andamento |
+| [01 — Fundamentos de Arquitetura de Solução](./modulo-01-fundamentos-arquitetura-solucao/README.md) | 45 | 38% | Em andamento |
 
 **Última atualização do progresso:** 21/10/2026 (percentual informado, não sincronizado automaticamente).
 
 ## Tema atual
 
-[Design Pattern (2)](./modulo-01-fundamentos-arquitetura-solucao/tema-04-design-patterns-2/README.md) — 9 aulas documentadas — em andamento.
+[AWS Well-Architected Framework](./modulo-01-fundamentos-arquitetura-solucao/tema-05-aws-well-architected-framework/README.md) — 1 aula documentada — em andamento.
 
 ## Tema anterior
 
-[Design Patterns](./modulo-01-fundamentos-arquitetura-solucao/tema-03-design-patterns/README.md) — 10 aulas documentadas.
+[Design Pattern (2)](./modulo-01-fundamentos-arquitetura-solucao/tema-04-design-patterns-2/README.md) — concluído (9 aulas).
 
 ## Temas concluídos
 
