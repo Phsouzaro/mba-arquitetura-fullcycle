@@ -1,7 +1,7 @@
 # Tema 04 — Design Pattern (2)
 
 **Módulo:** [01 — Fundamentos de Arquitetura de Solução](../README.md)  
-**Situação:** Em andamento
+**Situação:** Concluído
 
 ## Aulas documentadas
 
@@ -31,4 +31,4 @@
 - Sidecar extrai capacidades transversais para componentes adjacentes à aplicação, incluindo logs, mTLS, controle de tráfego e configuração.
 - Service Mesh coordena políticas de comunicação, segurança e observabilidade entre serviços por meio de data plane e control plane.
 
-As próximas aulas serão documentadas conforme os resumos forem compartilhados.
+**Tema concluído com 9 aulas documentadas.** Próximo: [Tema 05 — AWS Well-Architected Framework](../tema-05-aws-well-architected-framework/README.md).
