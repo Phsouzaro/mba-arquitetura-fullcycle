@@ -8,10 +8,10 @@
 
 Módulo dedicado ao desenho de sistemas e à documentação das decisões de projeto em Design Docs.
 
-## Aulas documentadas
+## Temas
 
-| Aula | Título | Link |
-| --- | --- | --- |
-| 01 | Entendendo os principais conceitos | [Ler documentação](./aula-01-entendendo-os-principais-conceitos.md) |
+| Tema | Aulas documentadas | Acesso |
+| --- | ---: | --- |
+| 01 — System Design | 1 | [Ver tema](./tema-01-system-design/README.md) |
 
 [Voltar ao índice de módulos](../README.md)
