@@ -25,8 +25,9 @@ O foco não é apenas registrar *o que* foi estudado, mas explicar **por que**, 
 | Etapa | Status |
 | --- | --- |
 | Estrutura inicial de documentação | Concluída |
-| Cadastro dos módulos reais do MBA | Iniciado: módulo 01 registrado |
-| [Módulo 01 — Fundamentos de Arquitetura de Solução](./modulos/modulo-01-fundamentos-arquitetura-solucao/README.md) | 27% concluído (informado em 13/10/2026) |
+| Cadastro dos módulos reais do MBA | Módulos 01 e 02 registrados |
+| [Módulo 01 — Fundamentos de Arquitetura de Solução](./modulos/modulo-01-fundamentos-arquitetura-solucao/README.md) | Em pausa (hold) · 38% informados em 21/10/2026 |
+| [Módulo 02 — System Design e Design Docs](./modulos/modulo-02-system-design-e-design-docs/README.md) | Em andamento |
 | Anotações e exercícios | Em construção |
 | Projetos práticos | Em construção |
 
