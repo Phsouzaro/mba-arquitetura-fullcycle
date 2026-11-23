@@ -5,13 +5,13 @@
 | Módulo | Aulas documentadas | Progresso informado | Situação |
 | --- | ---: | ---: | --- |
 | [01 — Fundamentos de Arquitetura de Solução](./modulo-01-fundamentos-arquitetura-solucao/README.md) | 49 | 38% | Em pausa (hold) |
-| [02 — System Design e Design Docs](./modulo-02-system-design-e-design-docs/README.md) | 1 | A informar | Em andamento |
+| [02 — System Design e Design Docs](./modulo-02-system-design-e-design-docs/README.md) | 2 | A informar | Em andamento |
 
 **Última atualização do progresso:** 21/10/2026 (percentual informado, não sincronizado automaticamente).
 
 ## Módulo atual
 
-[System Design e Design Docs](./modulo-02-system-design-e-design-docs/README.md) — tema atual: [01 — System Design](./modulo-02-system-design-e-design-docs/tema-01-system-design/README.md). Última aula documentada: [Aula 01 — Entendendo os principais conceitos](./modulo-02-system-design-e-design-docs/tema-01-system-design/aula-01-entendendo-os-principais-conceitos.md).
+[System Design e Design Docs](./modulo-02-system-design-e-design-docs/README.md) — tema atual: [01 — System Design](./modulo-02-system-design-e-design-docs/tema-01-system-design/README.md). Última aula documentada: [Aula 02 — System Design nas big techs](./modulo-02-system-design-e-design-docs/tema-01-system-design/aula-02-system-design-nas-big-techs.md).
 
 ## Ponto de retomada do Módulo 01
 
