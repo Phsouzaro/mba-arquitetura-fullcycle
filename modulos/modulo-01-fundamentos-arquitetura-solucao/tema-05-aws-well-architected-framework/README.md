@@ -10,6 +10,7 @@
 | 01 | Arquitetura de Solução para Cloud | [Ler documentação](./aula-01-arquitetura-de-solucao-para-cloud.md) |
 | 02 | AWS Well-Architected | [Ler documentação](./aula-02-aws-well-architected.md) |
 | 03 | Excelência Operacional | [Ler documentação](./aula-03-excelencia-operacional.md) |
+| 04 | Princípios da Excelência Operacional | [Ler documentação](./aula-04-principios-da-excelencia-operacional.md) |
 
 ## Aprendizados registrados
 
@@ -18,5 +19,6 @@
 - O AWS Well-Architected Framework orienta avaliações por seis pilares: Excelência Operacional, Segurança, Confiabilidade, Eficiência de Performance, Otimização de Custos e Sustentabilidade.
 - Uma revisão por pilares usa perguntas e evidências para identificar riscos, lacunas e trade-offs.
 - Excelência operacional usa sinais de produção para detectar desvios, orientar correções e verificar melhorias.
+- Operações como código, mudanças reversíveis e exercícios de recuperação ajudam a incorporar o aprendizado ao dia a dia da operação.
 
 As próximas aulas serão documentadas conforme os resumos forem compartilhados.
