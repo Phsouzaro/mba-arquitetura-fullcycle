@@ -12,6 +12,6 @@ Módulo dedicado ao desenho de sistemas e à documentação das decisões de pro
 
 | Tema | Aulas documentadas | Acesso |
 | --- | ---: | --- |
-| 01 — System Design | 1 | [Ver tema](./tema-01-system-design/README.md) |
+| 01 — System Design | 2 | [Ver tema](./tema-01-system-design/README.md) |
 
 [Voltar ao índice de módulos](../README.md)
