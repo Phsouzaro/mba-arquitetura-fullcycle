@@ -1,7 +1,7 @@
 # Módulo 01 — Fundamentos de Arquitetura de Solução
 
 **Curso:** MBA em Arquitetura Full Cycle  
-**Status:** Em andamento  
+**Status:** Em pausa (hold)  
 **Progresso informado:** 38% (21/10/2026)
 
 ## Visão geral
@@ -16,7 +16,7 @@ Módulo introdutório dedicado aos fundamentos de arquitetura de solução e às
 | 02 — Solution Architecture (concluído) | 16 | [Ver tema](./tema-02-solution-architecture/README.md) |
 | 03 — Design Patterns (10 aulas documentadas) | 10 | [Ver tema](./tema-03-design-patterns/README.md) |
 | 04 — Design Pattern (2) (concluído) | 9 | [Ver tema](./tema-04-design-patterns-2/README.md) |
-| 05 — AWS Well-Architected Framework (em andamento) | 5 | [Ver tema](./tema-05-aws-well-architected-framework/README.md) |
+| 05 — AWS Well-Architected Framework (em pausa) | 5 | [Ver tema](./tema-05-aws-well-architected-framework/README.md) |
 
 ## Tópicos apresentados na descrição geral do módulo
 
@@ -32,6 +32,6 @@ Módulo introdutório dedicado aos fundamentos de arquitetura de solução e às
 
 Ainda não cadastrados. Projetos práticos serão vinculados em [projetos](../../projetos/README.md).
 
-## Próximos passos
+## Ponto de retomada
 
-**Solution Enterprise concluído (9 aulas)** e **Solution Architecture concluído (16 aulas)**. **Design Patterns (Tema 03) com 10 aulas documentadas.** **Design Pattern (2) (Tema 04) concluído, com 9 aulas documentadas.** **AWS Well-Architected Framework (Tema 05) em andamento, com 5 aulas documentadas.** Continuar registrando as próximas aulas do Tema 05.
+O registro foi pausado após a [Aula 05 — Segurança](./tema-05-aws-well-architected-framework/aula-05-seguranca.md), com **49 aulas documentadas** no módulo. Os estudos seguem no [Módulo 02 — System Design e Design Docs](../modulo-02-system-design-e-design-docs/README.md).
