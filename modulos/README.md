@@ -11,7 +11,7 @@
 
 ## Módulo atual
 
-[System Design e Design Docs](./modulo-02-system-design-e-design-docs/README.md) — última aula documentada: [Aula 01 — Entendendo os principais conceitos](./modulo-02-system-design-e-design-docs/aula-01-entendendo-os-principais-conceitos.md).
+[System Design e Design Docs](./modulo-02-system-design-e-design-docs/README.md) — tema atual: [01 — System Design](./modulo-02-system-design-e-design-docs/tema-01-system-design/README.md). Última aula documentada: [Aula 01 — Entendendo os principais conceitos](./modulo-02-system-design-e-design-docs/tema-01-system-design/aula-01-entendendo-os-principais-conceitos.md).
 
 ## Ponto de retomada do Módulo 01
 
