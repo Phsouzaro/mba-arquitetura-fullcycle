@@ -11,6 +11,7 @@
 | 02 | AWS Well-Architected | [Ler documentação](./aula-02-aws-well-architected.md) |
 | 03 | Excelência Operacional | [Ler documentação](./aula-03-excelencia-operacional.md) |
 | 04 | Princípios da Excelência Operacional | [Ler documentação](./aula-04-principios-da-excelencia-operacional.md) |
+| 05 | Segurança | [Ler documentação](./aula-05-seguranca.md) |
 
 ## Aprendizados registrados
 
@@ -20,5 +21,6 @@
 - Uma revisão por pilares usa perguntas e evidências para identificar riscos, lacunas e trade-offs.
 - Excelência operacional usa sinais de produção para detectar desvios, orientar correções e verificar melhorias.
 - Operações como código, mudanças reversíveis e exercícios de recuperação ajudam a incorporar o aprendizado ao dia a dia da operação.
+- Segurança combina menor privilégio, rastreabilidade, defesa em camadas, proteção de dados e preparação para incidentes.
 
 As próximas aulas serão documentadas conforme os resumos forem compartilhados.
